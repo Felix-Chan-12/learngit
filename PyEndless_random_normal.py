@@ -12,3 +12,5 @@ for i in range(10):
 
 plt.plot(s,'o-')
 plt.show()
+
+print(""
